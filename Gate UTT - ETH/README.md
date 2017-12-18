@@ -31,3 +31,6 @@
 
 ### Задачи:
 1. Изучить propose в ETH
+
+## Схема работы шлюза
+[Открыть схему](https://www.draw.io/?lightbox=1&highlight=0000ff&layers=1&nav=1&title=Gate.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fu-transnet%2Fcodebase%2Fgate%2FGate%2520UTT%2520-%2520ETH%2FGate.xml)
