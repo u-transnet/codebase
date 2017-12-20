@@ -39,6 +39,6 @@
 [Открыть схему](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=1&title=Gate.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fu-transnet%2Fcodebase%2Fgate%2FGate%2520UTT%2520-%2520ETH%2FGate.xml)
 
 ## Технологии
-[python-bitshares](https://github.com/xeroc/python-bitshares)
-[bitsharesjs](https://github.com/bitshares/bitsharesjs)
-[pyethapp](https://github.com/ethereum/pyethapp/wiki/The_Console)
+[python-bitshares](https://github.com/xeroc/python-bitshares)  
+[bitsharesjs](https://github.com/bitshares/bitsharesjs)  
+[pyethapp](https://github.com/ethereum/pyethapp/wiki/The_Console)  
